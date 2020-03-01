@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008230792995",
+    "firebase_url": "https://maxus-movie.firebaseio.com",
+    "project_id": "maxus-movie",
+    "storage_bucket": "maxus-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008230792995:android:5729abee8267d94d161696",
+        "android_client_info": {
+          "package_name": "com.example.maxusmovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008230792995-dcurqcc7e9dmh2kfutg74m9bl3g1mo36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maxusmovie",
+            "certificate_hash": "42c0ca123c3e2ed74a6f2c2a3a8a2230a8274224"
+          }
+        },
+        {
+          "client_id": "1008230792995-e7bfoa87tgi7a69s7kqgd2d885ahfv05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPh8ZTkMeaYKImtpc63JMdmvvalw2yyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008230792995-e7bfoa87tgi7a69s7kqgd2d885ahfv05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
